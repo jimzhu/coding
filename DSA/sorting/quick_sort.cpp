@@ -6,7 +6,7 @@ template<typename T>
 int partition(vector<T>& array, int left, int right) {
     T p = array[left];
     while (left < right) {
-        while (left < right && array[right] > p) {
+        while (left < right && array[right] >= p) {
             right--;
         }
         array[left] = array[right];
