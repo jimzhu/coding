@@ -30,12 +30,18 @@ Hands On C++
   - Inorder traversal
   - Postorder traversal
   - Binary search tree
-    - [search key, add key](http://geeksquiz.com/binary-search-tree-set-1-search-and-insertion/), [delete key](http://geeksquiz.com/binary-search-tree-set-2-delete/) 
+    - [Search/add key](http://geeksquiz.com/binary-search-tree-set-1-search-and-insertion/)
+    - [Delete key](http://geeksquiz.com/binary-search-tree-set-2-delete/) 
     - [Find minimum](http://www.geeksforgeeks.org/find-the-minimum-element-in-a-binary-search-tree/)
-    - Inorder predecessor and successor for a given key in BST
+    - [Inorder predecessor and successor for a given key](http://www.geeksforgeeks.org/inorder-predecessor-successor-given-key-bst/)
+    - [Check if a binary tree is BST or not](http://www.geeksforgeeks.org/a-program-to-check-if-a-binary-tree-is-bst-or-not/)
+    - [Sorted order printing of a given array that represents a BST](http://www.geeksforgeeks.org/sorted-order-printing-of-an-array-that-represents-a-bst/)
+    - Lowest common ancestor: 1) [in a BST](http://www.geeksforgeeks.org/lowest-common-ancestor-in-a-binary-search-tree/); 2) [in a binary tree](http://www.geeksforgeeks.org/lowest-common-ancestor-binary-tree-set-1/)
   - Red-Black Tree
   - AVL Tree
   - Splay Tree
+  - Segment Tree
+    - RMQ: Range Minimum Query
    
    
 
@@ -45,5 +51,14 @@ Hands On C++
   - [BFS](https://github.com/jimzhu/handson/blob/master/DSA/graph/BFS.cpp)
   - [Dijkstra](https://github.com/jimzhu/handson/blob/master/DSA/graph/Dijkstra.cpp) (Single source)
   - [Floyd Warshall](https://github.com/jimzhu/handson/blob/master/DSA/graph/Floyd_Warshall.cpp) (All pairs)
+
+- String
+  - Pattern searching: 1) [Naive search]; 2) [KMP](http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/); 3) [Rabin-Karp](http://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/); 4) [Finite automata](http://www.geeksforgeeks.org/searching-for-patterns-set-5-finite-automata/); 5) [set 6](http://www.geeksforgeeks.org/pattern-searching-set-5-efficient-constructtion-of-finite-automata/); 6) [Boyer moore](http://www.geeksforgeeks.org/pattern-searching-set-7-boyer-moore-algorithm-bad-character-heuristic/); 7) [Suffix tree](http://www.geeksforgeeks.org/pattern-searching-set-8-suffix-tree-introduction/)
+
+- [Binary exponentiation](https://www.hackerearth.com/notes/mod-integer-exponentiation-useful-in-competetive-programming/)
+
+
+- Must Known
+  - 
 
 
