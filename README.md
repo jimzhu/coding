@@ -2,15 +2,6 @@ Hands On C++
 =======
 
 ###Data Structure and Algorithms
-- Sorting
-  - [Bubble sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/bubble_sort.cpp)
-  - [Insertion sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/insertion_sort.cpp)
-  - [Shell sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/shell_sort.cpp)
-  - [Selection sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/selection_sort.cpp)
-  - [Quick sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/quick_sort.cpp)
-  - [Merge sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/merge_sort.cpp)
-  - [Heap sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/heap_sort.cpp)
-  - [Count sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/count_sort.cpp)
 
 - [Heap](http://www.geeksforgeeks.org/heap/)
 
@@ -44,7 +35,18 @@ Hands On C++
     - RMQ: Range Minimum Query
    
    
+- Sorting
+  - [Bubble sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/bubble_sort.cpp)
+  - [Insertion sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/insertion_sort.cpp)
+  - [Shell sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/shell_sort.cpp)
+  - [Selection sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/selection_sort.cpp)
+  - [Quick sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/quick_sort.cpp)
+  - [Merge sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/merge_sort.cpp)
+  - [Heap sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/heap_sort.cpp)
+  - [Count sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/count_sort.cpp)
 
+- Search
+  - Binary search: LeetCode#69
 
 - [Graph](http://www.geeksforgeeks.org/data-structures/#Graph)
   - DFS: by [recursion](https://github.com/jimzhu/handson/blob/master/DSA/graph/DFS_recursion.cpp), by [stack](https://github.com/jimzhu/handson/blob/master/DSA/graph/DFS.cpp)
@@ -55,10 +57,11 @@ Hands On C++
 - String
   - Pattern searching: 1) [Naive search]; 2) [KMP](http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/); 3) [Rabin-Karp](http://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/); 4) [Finite automata](http://www.geeksforgeeks.org/searching-for-patterns-set-5-finite-automata/); 5) [set 6](http://www.geeksforgeeks.org/pattern-searching-set-5-efficient-constructtion-of-finite-automata/); 6) [Boyer moore](http://www.geeksforgeeks.org/pattern-searching-set-7-boyer-moore-algorithm-bad-character-heuristic/); 7) [Suffix tree](http://www.geeksforgeeks.org/pattern-searching-set-8-suffix-tree-introduction/)
 
-- [Binary exponentiation](https://www.hackerearth.com/notes/mod-integer-exponentiation-useful-in-competetive-programming/)
+- Bit Manipulation
+  - Power of two: [LeetCode#231](https://leetcode.com/problems/power-of-two/)
 
-
-- Must Known
-  - 
-
+- Must Know
+  - [Binary exponentiation](https://www.hackerearth.com/notes/mod-integer-exponentiation-useful-in-competetive-programming/): [LeetCode#50](https://leetcode.com/problems/powx-n/)
+  - Dynamic programming: LeetCode#xx, POJ#xx
+  - Todo
 
