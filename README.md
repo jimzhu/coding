@@ -55,7 +55,14 @@ Hands On C++
   - [Floyd Warshall](https://github.com/jimzhu/handson/blob/master/DSA/graph/Floyd_Warshall.cpp) (All pairs)
 
 - String
-  - Pattern searching: 1) [Naive search]; 2) [KMP](http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/); 3) [Rabin-Karp](http://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/); 4) [Finite automata](http://www.geeksforgeeks.org/searching-for-patterns-set-5-finite-automata/); 5) [set 6](http://www.geeksforgeeks.org/pattern-searching-set-5-efficient-constructtion-of-finite-automata/); 6) [Boyer moore](http://www.geeksforgeeks.org/pattern-searching-set-7-boyer-moore-algorithm-bad-character-heuristic/); 7) [Suffix tree](http://www.geeksforgeeks.org/pattern-searching-set-8-suffix-tree-introduction/)
+  - String match: 
+    - [Brute Force](http://www.geeksforgeeks.org/searching-for-patterns-set-1-naive-pattern-searching/)
+    - KMP [[ref1](http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/), [ref2](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)]: [code](https://github.com/jimzhu/handson/blob/master/DSA/string/KMP.cpp), LeetCode#214
+    - [Rabin-Karp](http://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/)
+    - [Finite automata](http://www.geeksforgeeks.org/searching-for-patterns-set-5-finite-automata/)
+    - [set 6](http://www.geeksforgeeks.org/pattern-searching-set-5-efficient-constructtion-of-finite-automata/)
+    - [Boyer moore](http://www.geeksforgeeks.org/pattern-searching-set-7-boyer-moore-algorithm-bad-character-heuristic/)
+    - [Suffix tree](http://www.geeksforgeeks.org/pattern-searching-set-8-suffix-tree-introduction/)
 
 - Bit Manipulation
   - Power of two: [LeetCode#231](https://leetcode.com/problems/power-of-two/)
@@ -63,5 +70,5 @@ Hands On C++
 - Must Know
   - [Binary exponentiation](https://www.hackerearth.com/notes/mod-integer-exponentiation-useful-in-competetive-programming/): [LeetCode#50](https://leetcode.com/problems/powx-n/)
   - Dynamic programming: LeetCode#xx, POJ#xx
-  - Todo
+  - Suffix array
 
