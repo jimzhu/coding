@@ -4,28 +4,28 @@ Hands On C++
 ###Data Structure and Algorithms
 
 - Sorting
-  - [Bubble sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/bubble_sort.cpp)
-  - [Insertion sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/insertion_sort.cpp)
-  - [Shell sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/shell_sort.cpp)
-  - [Selection sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/selection_sort.cpp)
-  - [Quick sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/quick_sort.cpp)
-  - [Merge sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/merge_sort.cpp)
-  - [Heap sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/heap_sort.cpp)
-  - [Count sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/count_sort.cpp)
+  - [Bubble sort](./DSA/sorting/bubble_sort.cpp)
+  - [Insertion sort](./DSA/sorting/insertion_sort.cpp)
+  - [Shell sort](./DSA/sorting/shell_sort.cpp)
+  - [Selection sort](./DSA/sorting/selection_sort.cpp)
+  - [Quick sort](./DSA/sorting/quick_sort.cpp)
+  - [Merge sort](./DSA/sorting/merge_sort.cpp)
+  - [Heap sort](./DSA/sorting/heap_sort.cpp)
+  - [Count sort](./DSA/sorting/count_sort.cpp)
 
 - Search
-  - Binary search: code, LeetCode#69
+  - Binary search: code, [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ "Find Minimum in Rotated Sorted Array")#[153](), [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/ "Find Minimum in Rotated Sorted Array II (with duplicates)")#[154](), [LeetCode](https://leetcode.com/problems/sqrtx/ "Sqrt(x)")#[69]()
 
 
 - [Heap](http://www.geeksforgeeks.org/heap/)
 
    Build heap, O(n); extrac root and rebuild O(logn)
   * [Heap vs BST for priority queue](http://www.geeksforgeeks.org/why-is-binary-heap-preferred-over-bst-for-priority-queue/)
-  * [Heap sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/heap_sort.cpp)
+  * [Heap sort](./DSA/sorting/heap_sort.cpp)
   * [Sort a nearly sorted (or K sorted) array](http://www.geeksforgeeks.org/nearly-sorted-algorithm/)
-  * [Kth largest element in unsorted array](https://github.com/jimzhu/handson/blob/master/DSA/heap/kth_largest_element_in_unsorted_array.cpp)
-  * [Kth largest element in a stream](https://github.com/jimzhu/handson/blob/master/DSA/heap/kth_largest_element_in_a_stream.cpp)
-  * [Merge k sorted arrays](https://github.com/jimzhu/handson/blob/master/LeetCode/23_Merge%20k%20Sorted%20Lists.cpp)
+  * [Kth largest element in unsorted array](./DSA/heap/kth_largest_element_in_unsorted_array.cpp)
+  * [Kth largest element in a stream](./DSA/heap/kth_largest_element_in_a_stream.cpp)
+  * [Merge k sorted arrays](./LeetCode/23_Merge%20k%20Sorted%20Lists.cpp)
   * [Connect n ropes with minimum cost](http://www.geeksforgeeks.org/connect-n-ropes-minimum-cost/)
   * [Check if a given array represents a Binary Heap](http://www.geeksforgeeks.org/how-to-check-if-a-given-array-represents-a-binary-heap/)
   * [Check if a given Binary Tree is Heap](http://www.geeksforgeeks.org/check-if-a-given-binary-tree-is-heap/)
@@ -50,10 +50,10 @@ Hands On C++
   
 
 - [Graph](http://www.geeksforgeeks.org/data-structures/#Graph)
-  - DFS: by [recursion](https://github.com/jimzhu/handson/blob/master/DSA/graph/DFS_recursion.cpp), by [stack](https://github.com/jimzhu/handson/blob/master/DSA/graph/DFS.cpp)
-  - [BFS](https://github.com/jimzhu/handson/blob/master/DSA/graph/BFS.cpp)
-  - [Dijkstra](https://github.com/jimzhu/handson/blob/master/DSA/graph/Dijkstra.cpp) (Single source)
-  - [Floyd Warshall](https://github.com/jimzhu/handson/blob/master/DSA/graph/Floyd_Warshall.cpp) (All pairs)
+  - DFS: by [recursion](./DSA/graph/DFS_recursion.cpp), by [stack](./DSA/graph/DFS.cpp)
+  - [BFS](./DSA/graph/BFS.cpp)
+  - [Dijkstra](./DSA/graph/Dijkstra.cpp) (Single source)
+  - [Floyd Warshall](./DSA/graph/Floyd_Warshall.cpp) (All pairs)
 
 - String
   - String match: 
@@ -66,10 +66,10 @@ Hands On C++
     - [Suffix tree](http://www.geeksforgeeks.org/pattern-searching-set-8-suffix-tree-introduction/)
 
 - Bit Manipulation
-  - Power of two: [LeetCode](https://leetcode.com/problems/power-of-two/)#[231](https://github.com/jimzhu/handson/blob/master/LeetCode/231_Power%20of%20Two.cpp)
+  - Power of two: [LeetCode](https://leetcode.com/problems/power-of-two/)#[231](./LeetCode/231_Power%20of%20Two.cpp)
 
 - Must Know
-  - [Binary exponentiation](https://www.hackerearth.com/notes/mod-integer-exponentiation-useful-in-competetive-programming/): [LeetCode](https://leetcode.com/problems/powx-n/)#[50](https://github.com/jimzhu/handson/blob/master/LeetCode/50_Pow(x%2C%20n).cpp)
+  - [Binary exponentiation](https://www.hackerearth.com/notes/mod-integer-exponentiation-useful-in-competetive-programming/): [LeetCode](https://leetcode.com/problems/powx-n/)#[50](./LeetCode/50_Pow(x%2C%20n).cpp)
   - Dynamic programming: LeetCode#xx, POJ#xx
   - Suffix array
 
