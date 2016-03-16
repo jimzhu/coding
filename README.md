@@ -14,12 +14,12 @@ Hands On C++
   - [Count sort](./DSA/sorting/count_sort.cpp)
 
 - Search
-  - Binary search: code, [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ "Find Minimum in Rotated Sorted Array")#[153](), [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/ "Find Minimum in Rotated Sorted Array II (with duplicates)")#[154](), [LeetCode](https://leetcode.com/problems/sqrtx/ "Sqrt(x)")#[69]()
+  - Binary search: code, [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/ "Find Minimum in Rotated Sorted Array")#[153](./LeetCode/153_Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp), [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/ "Find Minimum in Rotated Sorted Array II (with duplicates)")#[154](./LeetCode/154_Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.cpp), [LeetCode](https://leetcode.com/problems/sqrtx/ "Sqrt(x)")#[69](./LeetCode/69_Sqrt(x).cpp)
 
 
 - [Heap](http://www.geeksforgeeks.org/heap/)
 
-   Build heap, O(n); extrac root and rebuild O(logn)
+   Note: Build heap, O(n); extract root and rebuild O(logn)
   * [Heap vs BST for priority queue](http://www.geeksforgeeks.org/why-is-binary-heap-preferred-over-bst-for-priority-queue/)
   * [Heap sort](./DSA/sorting/heap_sort.cpp)
   * [Sort a nearly sorted (or K sorted) array](http://www.geeksforgeeks.org/nearly-sorted-algorithm/)
@@ -66,10 +66,10 @@ Hands On C++
     - [Suffix tree](http://www.geeksforgeeks.org/pattern-searching-set-8-suffix-tree-introduction/)
 
 - Bit Manipulation
-  - Power of two: [LeetCode](https://leetcode.com/problems/power-of-two/)#[231](./LeetCode/231_Power%20of%20Two.cpp)
+  - Power of two: [LeetCode](https://leetcode.com/problems/power-of-two/ "Power of Two")#[231](./LeetCode/231_Power%20of%20Two.cpp)
 
 - Must Know
-  - [Binary exponentiation](https://www.hackerearth.com/notes/mod-integer-exponentiation-useful-in-competetive-programming/): [LeetCode](https://leetcode.com/problems/powx-n/)#[50](./LeetCode/50_Pow(x%2C%20n).cpp)
+  - [Binary exponentiation](https://www.hackerearth.com/notes/mod-integer-exponentiation-useful-in-competetive-programming/): [LeetCode](https://leetcode.com/problems/powx-n/ "Pow(x, n)")#[50](./LeetCode/50_Pow(x%2C%20n).cpp)
   - Dynamic programming: LeetCode#xx, POJ#xx
   - Suffix array
 
