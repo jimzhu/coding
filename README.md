@@ -58,7 +58,7 @@ Hands On C++
 - String
   - String match: 
     - [Brute Force](http://www.geeksforgeeks.org/searching-for-patterns-set-1-naive-pattern-searching/)
-    - KMP [[ref1](http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/), [ref2](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)]: [code](https://github.com/jimzhu/handson/blob/master/DSA/string/KMP.cpp), LeetCode#214
+    - KMP [[ref1](http://www.geeksforgeeks.org/searching-for-patterns-set-2-kmp-algorithm/), [ref2](http://jakeboxer.com/blog/2009/12/13/the-knuth-morris-pratt-algorithm-in-my-own-words/)]: [code](./blob/master/DSA/string/KMP.cpp), [LeetCode](https://leetcode.com/problems/shortest-palindrome/ "Shortest Palindrome")#[214]()
     - [Rabin-Karp](http://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/)
     - [Finite automata](http://www.geeksforgeeks.org/searching-for-patterns-set-5-finite-automata/)
     - [set 6](http://www.geeksforgeeks.org/pattern-searching-set-5-efficient-constructtion-of-finite-automata/)
