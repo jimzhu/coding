@@ -3,6 +3,20 @@ Hands On C++
 
 ###Data Structure and Algorithms
 
+- Sorting
+  - [Bubble sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/bubble_sort.cpp)
+  - [Insertion sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/insertion_sort.cpp)
+  - [Shell sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/shell_sort.cpp)
+  - [Selection sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/selection_sort.cpp)
+  - [Quick sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/quick_sort.cpp)
+  - [Merge sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/merge_sort.cpp)
+  - [Heap sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/heap_sort.cpp)
+  - [Count sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/count_sort.cpp)
+
+- Search
+  - Binary search: code, LeetCode#69
+
+
 - [Heap](http://www.geeksforgeeks.org/heap/)
 
    Build heap, O(n); extrac root and rebuild O(logn)
@@ -33,20 +47,7 @@ Hands On C++
   - Splay Tree
   - Segment Tree
     - RMQ: Range Minimum Query
-   
-   
-- Sorting
-  - [Bubble sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/bubble_sort.cpp)
-  - [Insertion sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/insertion_sort.cpp)
-  - [Shell sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/shell_sort.cpp)
-  - [Selection sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/selection_sort.cpp)
-  - [Quick sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/quick_sort.cpp)
-  - [Merge sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/merge_sort.cpp)
-  - [Heap sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/heap_sort.cpp)
-  - [Count sort](https://github.com/jimzhu/handson/blob/master/DSA/sorting/count_sort.cpp)
-
-- Search
-  - Binary search: LeetCode#69
+  
 
 - [Graph](http://www.geeksforgeeks.org/data-structures/#Graph)
   - DFS: by [recursion](https://github.com/jimzhu/handson/blob/master/DSA/graph/DFS_recursion.cpp), by [stack](https://github.com/jimzhu/handson/blob/master/DSA/graph/DFS.cpp)
@@ -65,10 +66,10 @@ Hands On C++
     - [Suffix tree](http://www.geeksforgeeks.org/pattern-searching-set-8-suffix-tree-introduction/)
 
 - Bit Manipulation
-  - Power of two: [LeetCode#231](https://leetcode.com/problems/power-of-two/)
+  - Power of two: [LeetCode](https://leetcode.com/problems/power-of-two/)#[231](https://github.com/jimzhu/handson/blob/master/LeetCode/231_Power%20of%20Two.cpp)
 
 - Must Know
-  - [Binary exponentiation](https://www.hackerearth.com/notes/mod-integer-exponentiation-useful-in-competetive-programming/): [LeetCode#50](https://leetcode.com/problems/powx-n/)
+  - [Binary exponentiation](https://www.hackerearth.com/notes/mod-integer-exponentiation-useful-in-competetive-programming/): [LeetCode](https://leetcode.com/problems/powx-n/)#[50](https://github.com/jimzhu/handson/blob/master/LeetCode/50_Pow(x%2C%20n).cpp)
   - Dynamic programming: LeetCode#xx, POJ#xx
   - Suffix array
 
